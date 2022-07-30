@@ -13,7 +13,7 @@
       {
         "title": "Recipe Reservoir",
         "startDate": "2022",
-        "description": "A digital space to input recipes, and recall them based on available ingredients. The project also included a conversion page.",
+        "description": "A digital space to input and rate recipes, as well as search for user entries based on available ingredients. The project also included a conversion page.",
         "images": [
           "images/portfolio/recipe-reservoir/p1.jpg",
           "images/portfolio/recipe-reservoir/p2.jpg"
@@ -21,32 +21,36 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Odd Duck",
+        "startDate": "2022",
+        "description": "A voting application to capture user input to guide product devlopment. The application displays user input in a graph after voting is completed. ",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/oddduck/p1.jpg",
+          "images/portfolio/oddduck/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
+            "class": "devicon-html5-plain",
             "name": "React"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CCS 3"
           },
           {
             "class": "devicon-javascript-plain",
