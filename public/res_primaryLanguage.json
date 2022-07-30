@@ -18,7 +18,7 @@
           "images/portfolio/recipe-reservoir/p1.jpg",
           "images/portfolio/recipe-reservoir/p2.jpg"
         ],
-        "url": "",
+        "url": "https://toonts.github.io/recipe-reservoir/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -42,7 +42,7 @@
           "images/portfolio/oddduck/p1.jpg",
           "images/portfolio/oddduck/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://elleem.github.io/odd-duck/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
@@ -59,26 +59,30 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "My first app using React! It displays images and information about horned animals and allows users to filter images by number of horns and expand selected images.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/galleryofhorns/p1.jpg",
+          "images/portfolio/galleryofhorns/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://elleem-horned-beasts.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       }
@@ -92,15 +96,11 @@
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "CSS3",
+          "HTML5"
         ]
       },
       {
