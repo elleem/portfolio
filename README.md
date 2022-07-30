@@ -6,11 +6,11 @@ Number and name of feature: About Me Section
 
 Estimate of time needed to complete: 120 minutes
 
-Start time: _____
+Start time: 2:00pm 
 
-Finish time: _____
+Finish time: 2:25pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 25 minutes
 
 #################################################################
 
@@ -18,7 +18,7 @@ Number and name of feature: Projects Section
 
 Estimate of time needed to complete: 120 minutes
 
-Start time: _____
+Start time: 236pm 
 
 Finish time: _____
 

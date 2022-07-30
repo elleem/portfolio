@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Lauren Main. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Lauren.I am a software developer with a background in project management and IT analysis. I am interested in a role as a software developer because I have gained an expertise in IT project management, writing use cases, and documenting requirements for software with the King County Sheriff.  I have worked hard to complement these skills by learning to code in an accelerated bootcamp and I am excited to continue my career where I help people every day. Something interesting that I just fixed at work is our crime map, which provides statistics on incidents in their neighborhoods, while working closely with our vendor City Protect.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Recipe Reservoir",
+        "startDate": "2022",
+        "description": "A digital space to input recipes, and recall them based on available ingredients. The project also included a conversion page.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/recipe-reservoir/p1.jpg",
+          "images/portfolio/recipe-reservoir/p2.jpg"
         ],
         "url": "",
         "technologies": [
