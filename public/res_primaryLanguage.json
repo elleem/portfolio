@@ -89,11 +89,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full Stack Developer",
+        "years": "12.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "accelerated software development certificate"
         ],
         "technologies": [
           "JavaScript",
@@ -104,18 +104,18 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "King County Sheriffs Office",
+        "title": "Functional Analyst",
+        "years": "06.2016 - present",
         "mainTech": [
-          "Angular 7/8"
+          "database and user support"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "VS Code",
+          "Teams",
+          "Powershell",
           "JavaScript",
-          "DHTMLX Gantt"
+          "HMTL5"
         ]
       }
     ]
