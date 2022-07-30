@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Lauren.I am a software developer with a background in project management and IT analysis. I am interested in a role as a software developer because I have gained an expertise in IT project management, writing use cases, and documenting requirements for software with the King County Sheriff.  I have worked hard to complement these skills by learning to code in an accelerated bootcamp and I am excited to continue my career where I help people every day. Something interesting that I just fixed at work is our crime map, which provides statistics on incidents in their neighborhoods, while working closely with our vendor City Protect.",
+      "description": "👋 I'm Lauren. I am a software developer with a background in project management and IT analysis. I am interested in a role as a software developer because I have gained an expertise in IT project management, writing use cases, and documenting requirements for software with the King County Sheriff.  I have worked hard to complement these skills by learning to code in an accelerated bootcamp and I am excited to continue my career where I help people every day. Something interesting that I just fixed at work is our crime map. Working closely with our vendor City Protect, we backfilled our third party API, which provides statistics on incidents in King County neighborhoods.🗺️",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
