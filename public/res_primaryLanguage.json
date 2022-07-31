@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Lauren. I am a software developer with a background in project management and IT analysis. I am interested in a role as a software developer because I have gained an expertise in IT project management, writing use cases, and documenting requirements for software with the King County Sheriff.  I have worked hard to complement these skills by learning to code in an accelerated bootcamp and I am excited to continue my career where I help people every day. Something interesting that I just fixed at work is our crime map. Working closely with our vendor City Protect, we backfilled our third party API, which provides statistics on incidents in King County neighborhoods.🗺️",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,42 +11,22 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Recipe Reservoir",
+        "startDate": "2022",
+        "description": "A digital space to input and rate recipes, as well as search for user entries based on available ingredients. The project also included a conversion page.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/recipe-reservoir/p1.jpg",
+          "images/portfolio/recipe-reservoir/p2.jpg"
         ],
-        "url": "",
+        "url": "https://toonts.github.io/recipe-reservoir/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,63 +35,87 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Odd Duck",
+        "startDate": "2022",
+        "description": "A voting application to capture user input to guide product devlopment. The application displays user input in a graph after voting is completed. ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/oddduck/p1.jpg",
+          "images/portfolio/oddduck/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://elleem.github.io/odd-duck/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CCS 3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "My first app using React! It displays images and information about horned animals and allows users to filter images by number of horns and expand selected images.",
+        "images": [
+          "images/portfolio/galleryofhorns/p1.jpg",
+          "images/portfolio/galleryofhorns/p2.jpg"
+        ],
+        "url": "https://elleem-horned-beasts.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full Stack Developer",
+        "years": "12.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "CSS3",
+          "HTML5"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "King County Sheriffs Office",
+        "title": "Functional Analyst",
+        "years": "06.2016 - present",
         "mainTech": [
-          "Angular 7/8"
+          "database and user support"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "VS Code",
+          "Teams",
+          "Powershell",
           "JavaScript",
-          "DHTMLX Gantt"
+          "HMTL5"
         ]
       }
     ]
