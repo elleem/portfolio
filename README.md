@@ -39,9 +39,9 @@ Estimate of time needed to complete: 120 minutes
 
 Start time: 3:45pm
 
-Finish time: _____
+Finish time: 4:00pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 15 minutes
 
 #################################################################
 
@@ -49,8 +49,8 @@ Number and name of feature: Personalize
 
 Estimate of time needed to complete: 120 minutes
 
-Start time: _____
+Start time: 4:00pm
 
-Finish time: _____
+Finish time: 5:15pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 75 minutes
