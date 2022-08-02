@@ -89,33 +89,31 @@
     ],
     "experience": [
       {
-        "company": "Code Fellows",
-        "title": "Full Stack Developer",
-        "years": "12.2021 - present",
-        "mainTech": [
-          "JavaScript"
-        ],
-        "technologies": [
-          "JavaScript",
-          "Bootstrap",
-          "React",
-          "CSS3",
-          "HTML5"
-        ]
-      },
-      {
-        "company": "King County Sheriffs Office",
+        "company": "King County Sheriffs Office | Computer Resource Unit",
         "title": "Functional Analyst",
         "years": "06.2016 - present",
         "mainTech": [
           "database and user support"
         ],
         "technologies": [
-          "VS Code",
-          "Teams",
-          "Powershell",
           "JavaScript",
-          "HMTL5"
+          "VS Code",
+          "Powershell",
+          "Teams",
+          "HTML5"
+        ]
+      },
+      {
+        "company": "King County Adult and Juvenile Detention Department",
+        "title": "Fiscal Specialist",
+        "years": "12.2014 - 06.2016",
+        "mainTech": [
+          "Oracle"
+        ],
+        "technologies": [
+          "Oracle",
+          "Jail Management System billing",
+          "advanced Excel"
         ]
       }
     ]
