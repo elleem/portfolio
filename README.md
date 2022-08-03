@@ -4,8 +4,9 @@
 
 Hi! I'm Lauren! <br>
 I am software developer with a background in project management and IT analysis. <br>
-I am interested in a role as a software developer because I have gained an expertise in IT project management, writing use cases, and documenting requirements for software with the King County Sheriff. I have worked hard to complement these skills by learning to code in an accelerated bootcamp and I am excited to continue my career where I help people every day. <br>
-Something interesting that I just fixed at work is our crime map, which provides statistics on incidents in their neighborhoods, while working closely with our vendor City Protect.
+For the last six years, I have worked in public safety, with the King County Sheriff's Office Computer Resource Unit. I have gained expertise in IT project management, writing use cases, documenting software requirements, and user support.  <br>
+Something interesting that I just fixed at work is the King County crime map, which provides statistics on incidents throughout the County. Working closely with our vendor City Protect, I coordinated the backfill of our third-party API. <br>
+Something interesting that I just fixed at work is the King County crime map, which provides statistics on incidents throughout the County. Working closely with our vendor City Protect, I coordinated the backfill of our third-party API.
 
 #################################################################
 
