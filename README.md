@@ -3,9 +3,8 @@
 [View my Live site at netlify](https://laurenmainportfolio.netlify.app/)
 
 Hi! I'm Lauren! <br>
-I am software developer with a background in project management and IT analysis. <br>
-I am interested in a role as a software developer because I have gained an expertise in IT project management, writing use cases, and documenting requirements for software with the King County Sheriff. I have worked hard to complement these skills by learning to code in an accelerated bootcamp and I am excited to continue my career where I help people every day. <br>
-Something interesting that I just fixed at work is our crime map, which provides statistics on incidents in their neighborhoods, while working closely with our vendor City Protect.
+I am a software developer with a background in project management and IT analysis. <br>
+I am interested in a role as a software developer because I have gained an experience in quality assurance testing, writing use cases, and documenting requirements for software with the King County Sheriff. I have worked hard to complement these skills by learning to code in an accelerated bootcamp. <br>
 
 #################################################################
 
